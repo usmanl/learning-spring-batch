@@ -1,4 +1,4 @@
-package io.ipgeolocation.decider;
+package io.spring.batch;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;
